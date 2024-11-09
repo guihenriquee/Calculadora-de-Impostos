@@ -1,18 +1,17 @@
-## Getting Started
+# Calculadora de Imposto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Descrição:** Este projeto é uma aplicação simples em Java que calcula a porcentagem de imposto sobre um salário. Ele define um valor de salário e a porcentagem de imposto, calculando o valor correspondente a essa porcentagem.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Calcula o valor de um imposto com base em uma porcentagem específica aplicada ao salário.
+- Exibe o valor do imposto calculado no console.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java (versão 8 ou superior)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Pré-requisitos
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- JDK instalado (Java Development Kit).
+- IDE como Eclipse, IntelliJ, ou NetBeans, ou um editor de texto para rodar em linha de comando.
